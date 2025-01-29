@@ -17,4 +17,5 @@ Pads --> Rings --> Stripes --> Rails
 
 
 **Why PG regions are created? **
+
 PG regions are created to control the structure of powerplan at different portion's of the design. Because different areas of the design requires different PG structure.
