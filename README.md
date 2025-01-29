@@ -14,3 +14,7 @@ Pads --> Rings --> Stripes --> Rails
 7. There are some checks after creating pg mesh 
 8. Define master rule for via creation(via creation was disabled during pg mesh creation)
 9. Create pg vias
+
+
+**Why PG regions are created? **
+PG regions are created to control the structure of powerplan at different portion's of the design. Because different areas of the design requires different PG structure.
