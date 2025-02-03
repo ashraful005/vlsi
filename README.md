@@ -3,6 +3,7 @@
 At top-level, power is delivered in the order below:
 Pads --> Rings --> Stripes --> Rails
 
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/80570535-5ac2-4ab3-9334-9caa9dae5099" />
 
 **Some common steps of powerplanning:**
 1. Create power ports/pads
